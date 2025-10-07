@@ -1,16 +1,17 @@
 import Image from "next/image";
 
 export default function Home() {
-  return (
-	<div>
-	<h1>
-	This is Youssefs home page.
-	</h1>
-<p>We are learning how to work with dockploy in order to make contribution to certain issues in the future.</p>
-<p>We are also learning how to work in nvim</p>
-<div/>
-)
+	return (
+		<div>
+			This is youssefs homepage
+			<p>
+				We are learning to deploy an app through dokploy's hosting services
+				I'm also learning how to setup my nvim and working in that environment, so that's fun
+			</p>
+		</div>
 
+	)
+}
 
 
 
